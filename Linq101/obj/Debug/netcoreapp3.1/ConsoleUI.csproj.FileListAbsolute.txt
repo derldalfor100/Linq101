@@ -8,3 +8,9 @@ C:\Users\david\source\repos\Linq101\Linq101\obj\Debug\netcoreapp3.1\ConsoleUI.As
 C:\Users\david\source\repos\Linq101\Linq101\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
 C:\Users\david\source\repos\Linq101\Linq101\obj\Debug\netcoreapp3.1\ConsoleUI.dll
 C:\Users\david\source\repos\Linq101\Linq101\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\david\source\repos\Linq101\Linq101\bin\Debug\netcoreapp3.1\LinqLibrary.dll
+C:\Users\david\source\repos\Linq101\Linq101\bin\Debug\netcoreapp3.1\LinqLibrary.pdb
+C:\Users\david\source\repos\Linq101\Linq101\obj\Debug\netcoreapp3.1\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\david\source\repos\Linq101\Linq101\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CopyComplete
+C:\Users\david\source\repos\Linq101\Linq101\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Linq101\Linq101\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache

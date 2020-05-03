@@ -1,0 +1,13 @@
+C:\Users\david\source\repos\Linq101\FormUIFramework\bin\Debug\FormUIFramework.exe.config
+C:\Users\david\source\repos\Linq101\FormUIFramework\bin\Debug\FormUIFramework.exe
+C:\Users\david\source\repos\Linq101\FormUIFramework\bin\Debug\FormUIFramework.pdb
+C:\Users\david\source\repos\Linq101\FormUIFramework\obj\Debug\FormUIFramework.csprojAssemblyReference.cache
+C:\Users\david\source\repos\Linq101\FormUIFramework\obj\Debug\FormUIFramework.Dashboard.resources
+C:\Users\david\source\repos\Linq101\FormUIFramework\obj\Debug\FormUIFramework.Properties.Resources.resources
+C:\Users\david\source\repos\Linq101\FormUIFramework\obj\Debug\FormUIFramework.csproj.GenerateResource.cache
+C:\Users\david\source\repos\Linq101\FormUIFramework\obj\Debug\FormUIFramework.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Linq101\FormUIFramework\obj\Debug\FormUIFramework.exe
+C:\Users\david\source\repos\Linq101\FormUIFramework\obj\Debug\FormUIFramework.pdb
+C:\Users\david\source\repos\Linq101\FormUIFramework\bin\Debug\LinqLibraryFramework.dll
+C:\Users\david\source\repos\Linq101\FormUIFramework\bin\Debug\LinqLibraryFramework.pdb
+C:\Users\david\source\repos\Linq101\FormUIFramework\obj\Debug\FormUIFramework.csproj.CopyComplete

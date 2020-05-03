@@ -1,0 +1,6 @@
+C:\Users\david\source\repos\Linq101\LinqLibraryFramework\bin\Debug\LinqLibraryFramework.dll
+C:\Users\david\source\repos\Linq101\LinqLibraryFramework\bin\Debug\LinqLibraryFramework.pdb
+C:\Users\david\source\repos\Linq101\LinqLibraryFramework\obj\Debug\LinqLibraryFramework.csprojAssemblyReference.cache
+C:\Users\david\source\repos\Linq101\LinqLibraryFramework\obj\Debug\LinqLibraryFramework.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Linq101\LinqLibraryFramework\obj\Debug\LinqLibraryFramework.dll
+C:\Users\david\source\repos\Linq101\LinqLibraryFramework\obj\Debug\LinqLibraryFramework.pdb
